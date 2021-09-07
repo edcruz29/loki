@@ -427,6 +427,9 @@ border: 2px solid #FFFFFF;
     height: 30px;
     border: 2px solid #FFFFFF;
     }
+    .capa{
+        height: 95vh;
+    }
     
 }
 
